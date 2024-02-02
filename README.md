@@ -4,3 +4,6 @@
 ![image](https://github.com/iamllorexxx/human-factories-tracking/assets/125601063/6a060786-6192-4e1b-bdbb-8fe704fe3be2)
 
 Используется YOLOv8-X
+
+Скачать датасет:
+https://www.kaggle.com/datasets/iamlorexxx/hacksaidangerous/download?datasetVersionNumber=1
